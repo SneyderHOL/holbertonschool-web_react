@@ -1,4 +1,4 @@
-# Project 0x00 - React intro
+# Project 0x02 - React intro
 
 
 Project using React
